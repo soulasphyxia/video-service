@@ -18,9 +18,3 @@ paging:
   page: 1
   size: 5
 
-aws:
-  endpoint: http://localhost:9000
-  accessKey: user
-  secretKey: password
-  bucket-name: corpbucket
-  region: us-east2
